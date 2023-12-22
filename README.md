@@ -5,8 +5,11 @@
     <a href="https://www.linkedin.com/in/egx/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://wa.me/15926475005">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    </a>
     <a href="https://dev.to/emilledigital">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
     </a>
     <a href="https://www.instagram.com/crispystax/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -15,7 +18,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <p>
-    <img src="https://komarev.com/ghpvc/?username=egxdigital&style=flat-square&color=blue" alt="Profile visitors for GitHub user github.com/egxdigital"/>    
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{egxdigital}1212%2Fhit-counter" alt="Profile Hits"/>&nbsp;
     </p>  
   </div>
 </div>
